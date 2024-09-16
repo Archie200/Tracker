@@ -49,7 +49,7 @@ export const Footer = () => {
     <footer>
       <div className="footer-content">
         <img height={100} width={100} src={fcc} />
-        <h3>DECEMBOTHON</h3>
+        <h3>STRIDE</h3>
         <p> Dream Code Conquer</p>
         <div className='college'>
           <span>National Institute of Technology, Agartala</span>

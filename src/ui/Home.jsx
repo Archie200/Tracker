@@ -65,15 +65,11 @@ const Home = () => {
         <div className="text">
           <h1>
             <span className="bg-gradient-to-r from-sky-300 to-fuchsia-700 text-transparent bg-clip-text ">
-              DECEMBOTHON
+              STRIDE
             </span>
           </h1>
           <p className="bg-gradient-to-r from-teal-300 to-fuchsia-300 text-transparent bg-clip-text">
-            Welcome to a playground of possibilities! Join our month-long coding
-            challenge and sculpt your skills amidst a community of passionate
-            developers. Ignite your code, conquer challenges, and code your way
-            to greatness – because here, innovation is not just a goal, it's a
-            journey.
+            Welcome to a playground of possibilities! 
           </p>
           <h2>
             <span

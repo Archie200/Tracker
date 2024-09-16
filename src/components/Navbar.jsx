@@ -34,7 +34,7 @@ const Navbar = () => {
             <li><Link to="/Taskset">Tasks</Link></li>
             <li><Link to="/user">{`${fullName ? `${fullName}'s` : "User"} DashBoard`}</Link></li>
             <li><Link to="/LeaderBoard">LeaderBoard</Link></li>
-            <li><Link to="/FAQs">FAQs</Link></li>
+            
 
           </ul>
         </div>
